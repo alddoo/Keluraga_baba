@@ -190,7 +190,7 @@
        <div class="footer-section address">
     <h3>📍 Alamat Kami</h3>
     <a href="https://maps.app.goo.gl/U6SLZAS8jiwBpL5y6" target="_blank" aria-label="Lihat Alamat Kami di Google Maps">
-        <p>Jl. Contoh Utama No. 123, Kota Fiktif, 12345</p>
+        <p>Jl. Musi Raya Barat, Sialang, Kec. Sako, Kota Palembang, Sumatera Selatan 30961</p>
         <p>Indonesia</p>
     </a>
 </div>
